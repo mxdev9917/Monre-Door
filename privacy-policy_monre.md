@@ -6,7 +6,7 @@ MONRE App is a joint development between Ministry of Naturual Resources and Envi
 The app is made available to all country app stores; nonetheless, the app is designed for use solely within the Lao PDR serving its citizens accessing MONRE e-Services. 
 
 
-2. Who should use Gov-X?
+2. Who should use MONRE App?
 All residents of Lao PDR including Lao nationals, aliens, permanent residents, tourists, and travelers who’s indented to receive e-Services provided MONRE should download MONRE App.  The app is made available to all country app stores; nonetheless, the app is designed for use solely within the Lao PDR.
 
 3. What Permission we ask from users?
