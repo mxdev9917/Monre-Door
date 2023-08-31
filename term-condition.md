@@ -51,4 +51,3 @@ We may update our Terms and Conditions from time to time. Thus, you are advised 
 
 If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at partner@sbg.la.
 
-![image](https://github.com/mxdev9917/Monre-Door/assets/140176546/b037bbd5-9648-4117-bb42-7d4dddd84519)
